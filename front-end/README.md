@@ -47,5 +47,3 @@ A modern sustainability dashboard built with **Next.js**, **TypeScript**, and **
 - Styled with Tailwind CSS (v4)
 - Fully responsive layout
 - Error handling for file formats and upload feedback
-
----
